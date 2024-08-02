@@ -12,8 +12,8 @@ Este repositorio contiene el proyecto desafío evaluado y obligatorio del módul
 
 Se nos entrega un proyecto no terminado y con errores el cual se ve de esta manera:
 
-![Proyecto previo a modificar](./screenshots/pagina_inicio.png)
+![pagina_inicio](https://github.com/user-attachments/assets/86762de2-1997-444a-a2aa-98e78a035736)
 
 Se nos pide realizar cambios en una nueva rama y cuando se haya finalizado la realización de cambios se debe fusionar la rama nueva con la rama principal. Mi proyecto listo quedo de esta manera:
 
-![Proyecto finalizado](./screenshots/pagina_final.png)
+![pagina_final](https://github.com/user-attachments/assets/4f46969e-cd3a-4b01-8523-143e85c21caf)](https://github.com/repowpm)
