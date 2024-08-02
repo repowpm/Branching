@@ -16,4 +16,5 @@ Se nos entrega un proyecto no terminado y con errores el cual se ve de esta mane
 
 Se nos pide realizar cambios en una nueva rama y cuando se haya finalizado la realización de cambios se debe fusionar la rama nueva con la rama principal. Mi proyecto listo quedo de esta manera:
 
-![pagina_final](https://github.com/user-attachments/assets/4f46969e-cd3a-4b01-8523-143e85c21caf)(https://github.com/repowpm)]
+[![Pagina final](![pagina_final](https://github.com/user-attachments/assets/dd6f7908-1082-49ed-9b55-99885ffa895c)
+)](https:/https://github.com/repowpm/)
